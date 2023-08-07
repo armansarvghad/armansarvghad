@@ -10,7 +10,8 @@ Software Engineer & Machine Learning Engineer
 *   ✉️  You can contact me at [arman.sarvghad@gmail.com](mailto:arman.sarvghad@gmail.com)
 *   🧠  I'm learning Large Language Model & Computer Vision
 *   🤝  I'm open to collaborating on creative projects
-*   ⚡  I'm secretly Batman... don't tell anyone### Skills 
+*   ⚡  I'm secretly Batman... don't tell anyone<a href="https://www.github.com/armansarvghad" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/armansarvghad?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -32,5 +33,6 @@ Software Engineer & Machine Learning Engineer
                       <a href="https://www.linkedin.com/in/arman-sarvghad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
                       <a href="https://www.twitter.com/armansarv_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/armansarvghad"><img src="https://github-readme-stats.vercel.app/api?username=armansarvghad&show_icons=true&hide=&count_private=true&title_color=000000&text_color=f97316&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="armansarvghad's GitHub stats" /></a><a
                       href="http://www.github.com/armansarvghad"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=armansarvghad&stroke=f97316&background=22272e&ring=000000&fire=000000&currStreakNum=f97316&currStreakLabel=000000&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=armansarvghad&stroke=f97316&background=22272e&ring=000000&fire=000000&currStreakNum=f97316&currStreakLabel=000000&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a><a href="https://github.com/armansarvghad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armansarvghad&langs_count=10&title_color=000000&text_color=f97316&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
