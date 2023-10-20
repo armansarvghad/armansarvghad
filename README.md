@@ -8,7 +8,6 @@ Software Engineer
 
 * 🌍  famagusta, cyprus
 * ✉️  You can contact me at [arman.sarvghad@gmail.com](mailto:arman.sarvghad@gmail.com)
-* 🧠  I'm learning Large Language Model & Computer Vision
 * 🤝  I'm open to collaborating on creative projects
 * ⚡  I'm secretly Batman... don't tell anyone
 
